@@ -1,0 +1,41 @@
+{
+  "name": "amazon-product-api",
+  "version": "0.4.4",
+  "description": "Amazon Product Advertising API client",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "./lib/"
+  },
+  "scripts": {
+    "test": "mocha --opts test/support/mocha.opts"
+  },
+  "keywords": [
+    "amazon",
+    "aws",
+    "product",
+    "ads",
+    "advertising"
+  ],
+  "author": "Dmitry Mazuro <dmitry.mazuro@icloud.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "request": "^2.81.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.12.3",
+    "mocha": "^3.2.0",
+    "nock": "^9.0.2",
+    "should": "^11.2.0",
+    "valid-url": "^1.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t3chnoboy/amazon-product-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/t3chnoboy/amazon-product-api/issues"
+  },
+  "homepage": "https://github.com/t3chnoboy/amazon-product-api"
+}
