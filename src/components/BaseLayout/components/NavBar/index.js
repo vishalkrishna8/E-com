@@ -16,7 +16,7 @@ const Navbar = () => (
       </ul>
     </div>
     <div className="shopping-cart">
-      <NavLink to="/cart"><Icon medium>shopping_cart</Icon></NavLink>
+      <NavLink to="/cart"><Icon medium>Cart</Icon></NavLink>
     </div>
   </nav>
 );
