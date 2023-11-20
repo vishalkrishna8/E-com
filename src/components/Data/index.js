@@ -182,7 +182,8 @@ const products = [
     price: 13.99,
     gender: "men",
     type: "tie",
-    img: "http://image.11st.my/g3/2/7/4/6/7/1/1274671_B_V5.jpg",
+    img: "https://images.app.goo.gl/vHUaUedZrRLcd1E5A.jpg"
+    <!-- img: "http://image.11st.my/g3/2/7/4/6/7/1/1274671_B_V5.jpg", -->
     inCart: false,
     category: "accessories"
   },
