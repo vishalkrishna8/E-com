@@ -182,7 +182,7 @@ const products = [
     price: 13.99,
     gender: "men",
     type: "tie",
-    img: "https://images.app.goo.gl/vHUaUedZrRLcd1E5A.jpg"
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-cmiVmtHfzYz8kDJOFCBPtDw6v2hw9DhuQ&usqp=CAU."
     <!-- img: "http://image.11st.my/g3/2/7/4/6/7/1/1274671_B_V5.jpg", -->
     inCart: false,
     category: "accessories"
@@ -205,7 +205,7 @@ const products = [
     price: 35.99,
     gender: "men",
     type: "tie",
-    img: "http://www.theethicalman.com/uploads/4/8/0/0/4800645/3035404_orig.png",
+    img: "https://m.media-amazon.com/images/I/81OIBVRlaYL._AC_UY1100_FMwebp_.jpg",
     inCart: false,
     category: "accessories"
   },
